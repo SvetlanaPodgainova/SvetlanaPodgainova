@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-developer
 ------------------
 
-I am studying on courses "Yandex Practicum"
+I am studying at the "Yandex Practicum" courses
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [spodgainova@gmail.com](mailto:spodgainova@gmail.com)
