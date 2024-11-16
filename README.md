@@ -8,7 +8,7 @@ I am studying at the "Yandex Practicum" courses
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [spodgainova@gmail.com](mailto:spodgainova@gmail.com)
-* 🧠  I'm learning TS/React
+
 
 ### Skills
 
